@@ -1,0 +1,20 @@
+{
+  "name": "plantani",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "author": "Hadad Ardianto",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mysql2": "^3.3.3",
+    "nodemon": "^2.0.22",
+    "uuid": "^9.0.0"
+  }
+}
